@@ -2,7 +2,7 @@
 
 **Họ tên:** Lê Minh Thắng · **MSHV:** 2A202603292 · **Mã:** G03
 
-Có Codex hỗ trợ soạn và giải thích đáp án; đã khai báo trong prompts.md.
+
 
 ---
 
